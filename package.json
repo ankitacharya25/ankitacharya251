@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Portfolio Website",
   "version": "1.0.0",
   "author": "Ankit Acharya <ankitacharya95@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ankitacharya25/v4"
+    "url": "https://github.com/ankitacharya25/ankitacharya25.github.io"
   },
   "keywords": [
     "gatsby"

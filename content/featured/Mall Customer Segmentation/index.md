@@ -1,5 +1,5 @@
 ---
-date: 4'
+date: '5'
 title: 'Customer Segementation'
 cover: './Cust1.jpg'
 github: 'https://github.com/ankitacharya25/Customer-Segmentation-Using-K-Means-Clustering'
