@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="" width="100" />
+  <img alt="Logo" src="https://github.com/ankitacharya25/ankitacharya25.github.io/blob/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   ankitacharya25.github.io
@@ -8,7 +8,7 @@
   <a href="https://ankitacharya25.github.io" target="_blank">https://ankitacharya25.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.github.com/" target="_blank">GitHub Pages</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/ankitacharya25/ankitacharya25.github.io/main/src/images/demo.png)
+![demo](https://github.com/ankitacharya25/ankitacharya25.github.io/blob/master/src/images/demo.png)
 
 
 ## 🎨 Color Reference
